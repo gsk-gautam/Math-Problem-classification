@@ -13,9 +13,9 @@ This project is a submission to the KAChallenges Series 1 where the task is to c
 
 ## 🗂 Directory Structure
 - `notebooks/`: Jupyter Notebooks for data prep, training, and inference.
-- `src/`: Python scripts for modular training/inference.
 - `submission/`: Final CSV submitted to Kaggle.
 - `data/`: Placeholder for dataset (not included due to competition rules).
   
   [Test Data](https://www.kaggle.com/competitions/classification-of-math-problems-by-kasut-academy/data?select=test.csv)
+  
   [Train Data](https://www.kaggle.com/competitions/classification-of-math-problems-by-kasut-academy/data?select=train.csv)
