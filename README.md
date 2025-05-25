@@ -19,3 +19,6 @@ This project is a submission to the KAChallenges Series 1 where the task is to c
   [Test Data](https://www.kaggle.com/competitions/classification-of-math-problems-by-kasut-academy/data?select=test.csv)
   
   [Train Data](https://www.kaggle.com/competitions/classification-of-math-problems-by-kasut-academy/data?select=train.csv)
+
+  ## 🏅 Results
+Final public leaderboard score: **F1_micro = 0.7587**
